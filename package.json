@@ -1,0 +1,36 @@
+{
+  "name": "Node_Mongo_DB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.1.0",
+    "bcrypt": "^5.0.1",
+    "chance": "^1.1.8",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "kafkajs": "^2.2.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.37",
+    "mongodb": "^4.9.0",
+    "mongoose": "^6.5.2",
+    "mqtt": "^4.3.7",
+    "node-fetch": "^3.2.10",
+    "pg": "^8.7.3",
+    "uuid": "^9.0.0",
+    "winston": "^3.8.1",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
